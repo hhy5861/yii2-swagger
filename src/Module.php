@@ -1,6 +1,6 @@
 <?php
 
-namespace cy\swagger;
+namespace mike\swagger;
 
 /**
  * swagger module definition class

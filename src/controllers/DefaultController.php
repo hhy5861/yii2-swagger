@@ -1,14 +1,14 @@
 <?php
 
-namespace cy\swagger\controllers;
+namespace mike\swagger\controllers;
 
 use Yii;
 use yii\base\Exception;
 use yii\helpers\Json;
 use yii\web\Controller as WebController;
 use yii\helpers\Inflector;
-use cy\swagger\Controller;
-use cy\swagger\Parameter;
+use mike\swagger\Controller;
+use mike\swagger\Parameter;
 
 /**
  * Default controller for the `swagger` module

@@ -7,19 +7,19 @@
 "repositories": [
     {
         "type": "vcs",
-        "url": "git@gitlab.oapol.com:yii/yii2-cy-swagger.git"
+        "url": "git@github.com:hhy5861/yii2-swagger.git"
     }
 ]
 ```
 
-2. 执行 `php composer.phar --prefer-dist require cy/swagger`
+2. 执行 `composer require "mike/swagger:dev-master"`
 
 3. 修改项目配置
 
 ```
 'modules' => [
     'swagger' => [
-        'class' => 'cy\swagger\Module',
+        'class' => 'mike\swagger\Module',
     ],
 ]
 ```

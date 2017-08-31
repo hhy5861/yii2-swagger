@@ -1,6 +1,6 @@
 <?php
 
-namespace cy\swagger;
+namespace mike\swagger;
 
 use yii\base\Component;
 use yii\base\Model;

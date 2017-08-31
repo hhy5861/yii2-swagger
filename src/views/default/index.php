@@ -1,7 +1,7 @@
 <?php
 /* @var $this \yii\web\View */
 /* @var $jsonUrl string */
-$asset = \cy\swagger\SwaggerAsset::register($this);
+$asset = \mike\swagger\SwaggerAsset::register($this);
 ?>
 <!DOCTYPE html>
 <html>

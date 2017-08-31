@@ -1,6 +1,6 @@
 <?php
 
-namespace cy\swagger;
+namespace mike\swagger;
 
 use yii\web\AssetBundle;
 
