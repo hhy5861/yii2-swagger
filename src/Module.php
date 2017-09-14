@@ -10,7 +10,7 @@ class Module extends \yii\base\Module
     /**
      * @inheritdoc
      */
-    public $controllerNamespace = 'cy\swagger\controllers';
+    public $controllerNamespace = 'mike\swagger\controllers';
 
     /**
      * @inheritdoc
